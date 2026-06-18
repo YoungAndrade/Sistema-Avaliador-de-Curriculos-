@@ -124,7 +124,7 @@ O feedback é gerado dinamicamente com base nos resultados da análise.
 
 1️⃣ Clonar o repositório
 
-git clone https://github.com/diego-space/sistema-avaliador-cv.git
+git clone https://github.com/YoungAndrade/Sistema-Avaliador-de-Curriculos-
 
 2️⃣ Instalar dependências
 
