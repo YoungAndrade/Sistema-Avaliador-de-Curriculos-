@@ -4,7 +4,7 @@ Projeto de Back-end da graduação em ADS, desenvolvido em time com 3 integrante
 
 Nome | Matrícula
 
-Diego de Magalhães Ferreira | 2023100033
+Jennifer Dos Santos Santana Batista | 2023100043
 
 Lucas Andrade da Silva | 2020102079
 
